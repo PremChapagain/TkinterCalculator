@@ -1,0 +1,11 @@
+Tkinter GUI Calculator is a simple desktop application built with Python using the Tkinter library. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The interface is clean, intuitive, and beginner-friendly, making it perfect for learning Python GUI programming or for everyday quick calculations.
+
+Key Features:
+Interactive GUI with buttons for digits and operations
+Supports decimal calculations
+Clear (`C`) button to reset input
+easy-to-read display
+Lightweight and beginner-friendly code
+Tech Stack: Python 3 and Tkinter
+
+
